@@ -2,7 +2,7 @@
 
 Live Link: https://sruthi-multiple-disease-prediction-web-app.streamlit.app/
 
-# Multiple-Disease-Prediction System #
+** Multiple-Disease-Prediction System **
 
 1. Diabetes Prediction
 2. Heart Disease Prediction
