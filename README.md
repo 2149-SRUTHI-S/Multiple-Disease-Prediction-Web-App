@@ -19,9 +19,9 @@ Try it out how it works: https://sruthi-multiple-disease-prediction-web-app.stre
 
 **Software Tools Used :**
 
-- Jupyter Notebook
-- Anaconda Navigator
-- Spyder
+- Jupyter Notebook (ML Models)
+- Anaconda Navigator (Work Environment)
+- Spyder (UI Design)
 
 **Libraries and Frameworks Used :**
 
