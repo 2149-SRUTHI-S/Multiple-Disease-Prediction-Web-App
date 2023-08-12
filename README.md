@@ -1,6 +1,6 @@
 # Multiple-Disease-Prediction-Web-App
 
-Live Link: https://sruthi-multiple-disease-prediction-web-app.streamlit.app/
+Try it out how it works: https://sruthi-multiple-disease-prediction-web-app.streamlit.app/
 
 **Multiple-Disease-Prediction System :**
 
