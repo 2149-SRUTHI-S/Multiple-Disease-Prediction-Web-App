@@ -33,4 +33,4 @@ Try it out how it works: https://sruthi-multiple-disease-prediction-web-app.stre
 
 **Deployment :**
 
-*Streamlit Cloud*
+Streamlit Cloud
